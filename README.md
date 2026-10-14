@@ -1,6 +1,6 @@
 ### Alibek Omertaev
 
-AI engineer from Astana, Kazakhstan. CTO at [AdaptAI](https://ai.fttclub.kz/).
+AI engineer from Astana, Kazakhstan at [AdaptAI](https://ai.fttclub.kz/).
 I build multi-agent systems, RAG pipelines and small tools around LLMs (Python, TypeScript).
 
 **Projects**
