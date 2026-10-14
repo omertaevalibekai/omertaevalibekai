@@ -1,4 +1,4 @@
-<img src="assets/banner.png" alt="Alibek Omertaev: AI engineer, CTO at AdaptAI. Multi-agent systems, RAG, LLM tools" width="100%">
+<img src="assets/banner.png" alt="Alibek Omertaev: AI engineer at AdaptAI. Multi-agent systems, RAG, LLM tools" width="100%">
 
 AI engineer from Astana, Kazakhstan at [AdaptAI](https://ai.fttclub.kz/). I build multi-agent systems, RAG pipelines and small tools around LLMs.
 
